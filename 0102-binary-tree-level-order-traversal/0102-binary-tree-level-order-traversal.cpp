@@ -9,9 +9,14 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
+//BFS (breadth first search) solution for trees.
+
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
+        ios::sync_with_stdio(false); //ignore this
         queue<TreeNode*> q;
         vector<vector<int>> ans;
 
