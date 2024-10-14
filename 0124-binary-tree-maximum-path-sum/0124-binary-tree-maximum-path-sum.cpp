@@ -24,6 +24,8 @@ public:
 
 
     int maxPathSum(TreeNode* root) {
+        ios::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr); //ignore
+
         int ans = INT_MIN;
         helper(root, ans);
         return ans;
