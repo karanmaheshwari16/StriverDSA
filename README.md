@@ -54,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/karanmaheshwari16/StriverDSA/tree/master/3195-separate-black-and-white-balls) |
+## String
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/karanmaheshwari16/StriverDSA/tree/master/3195-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/karanmaheshwari16/StriverDSA/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
