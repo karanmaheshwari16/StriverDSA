@@ -1,3 +1,9 @@
+static bool fast = []()
+{
+    std::cin.tie(0)->sync_with_stdio(false);
+    return true;
+}();
+
 class Solution {
 public:
     long long minimumSteps(string s) {
