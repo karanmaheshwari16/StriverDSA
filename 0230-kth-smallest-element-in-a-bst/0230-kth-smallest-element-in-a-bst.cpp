@@ -20,6 +20,7 @@ public:
     }
     
     int kthSmallest(TreeNode* root, int k) {
+        ios::sync_with_stdio(false);
         inorder(root);
         return temp[k-1];
     }
