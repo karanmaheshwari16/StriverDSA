@@ -12,6 +12,8 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
+        ios::sync_with_stdio(false);
+
         if(root == nullptr) return nullptr;
 
         if(root->val == key) return helper(root, key);
