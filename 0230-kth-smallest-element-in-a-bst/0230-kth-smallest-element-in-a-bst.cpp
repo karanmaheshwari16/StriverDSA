@@ -11,19 +11,16 @@
  */
 class Solution {
 public:
-    void traversal(TreeNode* root, vector<int> &temp) {
-        if(root == nullptr) return;
-
-        temp.push_back(root->val);
-        traversal(root->left, temp);
-        traversal(root->right, temp);
+    vector<int> temp;
+    void inorder(TreeNode* root) {
+        if (!root) return;
+        inorder(root -> left);
+        temp.push_back(root -> val);
+        inorder(root -> right);
     }
-
+    
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> temp;
-        traversal(root, temp);
-
-        sort(temp.begin(), temp.end());
+        inorder(root);
         return temp[k-1];
     }
 };
