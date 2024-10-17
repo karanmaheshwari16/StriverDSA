@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0890-lemonade-change) |
 ## Sorting
