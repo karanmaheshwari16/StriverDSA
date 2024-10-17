@@ -25,7 +25,6 @@ public:
 
         unordered_map<int, int> m;
         for(int i=0 ; i<temp.size() ; i++) {
-            // cout<<temp[i]<<" ";
             int compliment = k - temp[i];
             if(m.count(compliment)) return true;
             
