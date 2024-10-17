@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -117,5 +118,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
