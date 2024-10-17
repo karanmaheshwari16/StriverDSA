@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
