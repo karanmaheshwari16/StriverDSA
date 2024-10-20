@@ -1,7 +1,6 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);
         if(n <= 1) return 0;
         int count = 0;
         vector<bool> v(n+1,1);
