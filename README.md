@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
