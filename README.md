@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0543-diameter-of-binary-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0890-lemonade-change) |
@@ -173,9 +176,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/karanmaheshwari16/StriverDSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
